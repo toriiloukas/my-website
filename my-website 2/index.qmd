@@ -1,0 +1,73 @@
+---
+title: "Victoria (Tori) Loukas"
+subtitle: "Data Analytics · Machine Learning · Cloud · Federal Contracting"
+image: images/profile.jpg
+pagetitle: "About | Tori Loukas"
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/toriiloukas
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/victoria-loukas
+    - icon: envelope
+      text: Email
+      href: mailto:toriiloukas@gmail.com
+---
+
+## Hi, I'm Tori
+
+I'm a graduate student in the **M.S. in Applied Data Analytics at Boston University**, finishing in
+December 2026, and a **Contract Specialist at NAVSEA** in Washington, DC. My work sits where data
+meets business decisions: I like taking large, messy datasets, building the pipeline that cleans
+them, and turning the results into something a decision-maker can act on.
+
+In my coursework I work end to end in the cloud, processing data with **PySpark on AWS EC2**,
+building and comparing machine learning models in **Spark ML**, and publishing reproducible
+reports with **Quarto**. In my day job I see how careful analysis, clear documentation and
+attention to detail keep complex programs on track.
+
+## Career Goals
+
+I'm looking for roles at the intersection of **data, contracts and business strategy**, where I
+can use analytics and machine learning to make operations more transparent, efficient and
+well-reasoned. Long term, I want to keep combining analytical rigor with a strong understanding of
+how organizations, policy and agreements actually work.
+
+## Education
+
+**Boston University, Metropolitan College** | M.S. Applied Data Analytics | *December 2026*
+
+## Skills
+
+::: {.skills-grid}
+::: {.skill-card}
+**Languages**<br>Python · SQL
+:::
+::: {.skill-card}
+**Big Data**<br>Apache Spark · PySpark · Spark ML
+:::
+::: {.skill-card}
+**Cloud**<br>AWS EC2 · VPC · IAM · S3 · RDS
+:::
+::: {.skill-card}
+**Machine Learning**<br>Regression · Random Forest · Clustering · Classification · Pipelines
+:::
+::: {.skill-card}
+**Visualization**<br>Plotly · Seaborn · Matplotlib
+:::
+::: {.skill-card}
+**Tools**<br>Git & GitHub · Quarto · VS Code · Jupyter
+:::
+:::
+
+## Beyond the Data
+
+I'm always juggling a few things at once. I'm building my own clothing brand,
+[JUST WANNA STAY](https://justwannastay.com), a comfort-first line of neutral loungewear. I love
+photography and capturing everyday life, and I share fashion, beauty and home finds as a content
+creator.

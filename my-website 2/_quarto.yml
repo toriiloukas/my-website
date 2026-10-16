@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs          # GitHub Pages serves straight from /docs
+  resources:
+    - files/
+
+website:
+  title: "Tori Loukas"
+  site-url: "https://toriiloukas.github.io/my-website"
+  description: "Portfolio of Victoria (Tori) Loukas: data analytics, machine learning and cloud."
+  favicon: images/favicon.png
+  page-navigation: true
+  navbar:
+    background: light
+    left:
+      - text: About
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/toriiloukas
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/victoria-loukas
+        aria-label: LinkedIn
+  page-footer:
+    center: "© 2026 Victoria Loukas · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

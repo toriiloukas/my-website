@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Reach me directly\n\n toriiloukas@gmail.com\n linkedin.com/in/victoria-loukas\n github.com/toriiloukas\n Washington, DC\n\n\n\n\n\n\nSend a message\n\nName  Email  Message\n\n\nSend"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Data Scientist Careers: Skill Gaps & Prediction\nTeam project (AD688, Group 5) analyzing job postings for Data Scientist roles in Professional, Scientific & Technical Services (NAICS 5417). I led the skill gap analysis, comparing the skills employers ask for with what candidates bring, and the predictive modeling section, using Spark ML to model what drives salary.\nTools: PySpark · Spark ML · Plotly · Quarto · AWS EC2\nGitHub\n\n\n\n\n\nSalary Prediction with Spark ML\nBuilt a full machine learning pipeline on the Met Career Compass job postings dataset: cleaning, feature engineering with StringIndexer, OneHotEncoder and VectorAssembler, then training linear, polynomial and random forest regression models. I compared them on RMSE, R², AIC and BIC, diagnosed multicollinearity in the linear models, and visualized feature importance and actual vs. predicted values.\nTools: PySpark · Spark ML · Seaborn · Plotly · AWS EC2\nGitHub\n\n\n\n\n\nCloud Foundations on AWS\nCompleted the AWS Academy cloud curriculum alongside AD688. I configured and secured EC2 instances, built a VPC with a web server, set up IAM permissions, worked with EBS, S3 and RDS, and designed a highly available, fault-tolerant architecture. All of my Spark work for the course runs on a remote EC2 instance.\nTools: AWS EC2 · VPC · IAM · S3 · RDS · CloudWatch · Linux\nGitHub\n\n\n\n\n\nJUST WANNA STAY: Founder\nMy own clothing brand: comfort-first, neutral-toned loungewear and everyday essentials with subtle tonal embroidery. I’m handling brand development, the website and social presence, and planning a preorder launch for the first collection, NUDE 001.\nTools: Brand strategy · Squarespace · Instagram · Photography\nWebsite Instagram"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download my CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "Curriculum Vitae",
+    "section": "Summary",
+    "text": "Summary\nGraduate student in Applied Data Analytics at Boston University and Contract Specialist at NAVSEA. I have hands-on experience building big data pipelines in PySpark, training and evaluating machine learning models in Spark ML, and working in AWS cloud environments, along with a strong professional background in federal contracting, documentation and detail-oriented analysis."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\nContract Specialist, Naval Sea Systems Command (NAVSEA), Washington, DC | Present\n\nSupport the federal acquisition process for Navy programs, from requirements through award and administration\nPrepare, review and maintain contract documentation in line with federal acquisition regulations\nCoordinate with program teams and vendors to keep actions accurate and on schedule\n\nFounder, JUST WANNA STAY | Present\n\nBuilding a comfort-first, neutral-toned loungewear brand from concept to pre-launch\nLeading brand development, website (Squarespace), social media and the preorder launch plan for collection NUDE 001"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nM.S. Applied Data Analytics, Boston University, Metropolitan College | December 2026 Relevant coursework: Big Data & Cloud Analytics for Business (AD688)"
+  },
+  {
+    "objectID": "cv.html#projects",
+    "href": "cv.html#projects",
+    "title": "Curriculum Vitae",
+    "section": "Projects",
+    "text": "Projects\n\nData Scientist Careers: Skill Gaps & Prediction: skill gap analysis and Spark ML salary modeling (team project)\nSalary Prediction with Spark ML: linear, polynomial and random forest regression compared on RMSE, R², AIC and BIC\nCloud Foundations on AWS: EC2, VPC, IAM, S3, RDS and highly available architecture design"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\nLanguages: Python, SQL · Big Data: Apache Spark, PySpark, Spark ML · Cloud: AWS (EC2, VPC, IAM, S3, RDS) · Visualization: Plotly, Seaborn, Matplotlib · Tools: Git, GitHub, Quarto, VS Code, Jupyter, Linux"
+  },
+  {
+    "objectID": "cv.html#preview",
+    "href": "cv.html#preview",
+    "title": "Curriculum Vitae",
+    "section": "Preview",
+    "text": "Preview"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Victoria (Tori) Loukas",
+    "section": "",
+    "text": "I’m a graduate student in the M.S. in Applied Data Analytics at Boston University, finishing in December 2026, and a Contract Specialist at NAVSEA in Washington, DC. My work sits where data meets business decisions: I like taking large, messy datasets, building the pipeline that cleans them, and turning the results into something a decision-maker can act on.\nIn my coursework I work end to end in the cloud, processing data with PySpark on AWS EC2, building and comparing machine learning models in Spark ML, and publishing reproducible reports with Quarto. In my day job I see how careful analysis, clear documentation and attention to detail keep complex programs on track."
+  },
+  {
+    "objectID": "index.html#hi-im-tori",
+    "href": "index.html#hi-im-tori",
+    "title": "Victoria (Tori) Loukas",
+    "section": "",
+    "text": "I’m a graduate student in the M.S. in Applied Data Analytics at Boston University, finishing in December 2026, and a Contract Specialist at NAVSEA in Washington, DC. My work sits where data meets business decisions: I like taking large, messy datasets, building the pipeline that cleans them, and turning the results into something a decision-maker can act on.\nIn my coursework I work end to end in the cloud, processing data with PySpark on AWS EC2, building and comparing machine learning models in Spark ML, and publishing reproducible reports with Quarto. In my day job I see how careful analysis, clear documentation and attention to detail keep complex programs on track."
+  },
+  {
+    "objectID": "index.html#career-goals",
+    "href": "index.html#career-goals",
+    "title": "Victoria (Tori) Loukas",
+    "section": "Career Goals",
+    "text": "Career Goals\nI’m looking for roles at the intersection of data, contracts and business strategy, where I can use analytics and machine learning to make operations more transparent, efficient and well-reasoned. Long term, I want to keep combining analytical rigor with a strong understanding of how organizations, policy and agreements actually work."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Victoria (Tori) Loukas",
+    "section": "Education",
+    "text": "Education\nBoston University, Metropolitan College | M.S. Applied Data Analytics | December 2026"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Victoria (Tori) Loukas",
+    "section": "Skills",
+    "text": "Skills\n\n\nLanguagesPython · SQL\n\n\nBig DataApache Spark · PySpark · Spark ML\n\n\nCloudAWS EC2 · VPC · IAM · S3 · RDS\n\n\nMachine LearningRegression · Random Forest · Clustering · Classification · Pipelines\n\n\nVisualizationPlotly · Seaborn · Matplotlib\n\n\nToolsGit & GitHub · Quarto · VS Code · Jupyter"
+  },
+  {
+    "objectID": "index.html#beyond-the-data",
+    "href": "index.html#beyond-the-data",
+    "title": "Victoria (Tori) Loukas",
+    "section": "Beyond the Data",
+    "text": "Beyond the Data\nI’m always juggling a few things at once. I’m building my own clothing brand, JUST WANNA STAY, a comfort-first line of neutral loungewear. I love photography and capturing everyday life, and I share fashion, beauty and home finds as a content creator."
+  }
+]
