@@ -1,0 +1,37 @@
+---
+title: "Contact"
+subtitle: "Let's connect. I'm open to new roles, collaborations and good conversations about data."
+---
+
+::: {.columns}
+::: {.column width="45%"}
+### Reach me directly
+
+::: {.contact-list}
+<i class="bi bi-envelope"></i> [toriiloukas@gmail.com](mailto:toriiloukas@gmail.com)
+
+<i class="bi bi-linkedin"></i> [linkedin.com/in/victoria-loukas](https://www.linkedin.com/in/victoria-loukas)
+
+<i class="bi bi-github"></i> [github.com/toriiloukas](https://github.com/toriiloukas)
+
+<i class="bi bi-geo-alt"></i> Washington, DC
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+### Send a message
+
+<form class="contact-form" action="mailto:toriiloukas@gmail.com" method="post" enctype="text/plain">
+  <label for="name">Name</label>
+  <input id="name" type="text" name="name" required>
+  <label for="email">Email</label>
+  <input id="email" type="email" name="email" required>
+  <label for="message">Message</label>
+  <textarea id="message" name="message" rows="5" required></textarea>
+  <button type="submit" class="btn btn-primary">Send</button>
+</form>
+:::
+:::

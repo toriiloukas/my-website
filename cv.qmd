@@ -1,0 +1,46 @@
+---
+title: "Curriculum Vitae"
+---
+
+[<i class="bi bi-download"></i> Download my CV (PDF)](files/cv.pdf){.btn .btn-primary download="Victoria_Loukas_CV.pdf"}
+
+## Summary
+
+Graduate student in Applied Data Analytics at Boston University and Contract Specialist at NAVSEA.
+I have hands-on experience building big data pipelines in PySpark, training and evaluating
+machine learning models in Spark ML, and working in AWS cloud environments, along with a strong
+professional background in federal contracting, documentation and detail-oriented analysis.
+
+## Experience
+
+**Contract Specialist**, Naval Sea Systems Command (NAVSEA), Washington, DC | *Present*
+
+- Support the federal acquisition process for Navy programs, from requirements through award and administration
+- Prepare, review and maintain contract documentation in line with federal acquisition regulations
+- Coordinate with program teams and vendors to keep actions accurate and on schedule
+
+**Founder**, JUST WANNA STAY | *Present*
+
+- Building a comfort-first, neutral-toned loungewear brand from concept to pre-launch
+- Leading brand development, website (Squarespace), social media and the preorder launch plan for collection NUDE 001
+
+## Education
+
+**M.S. Applied Data Analytics**, Boston University, Metropolitan College | *December 2026*
+Relevant coursework: Big Data & Cloud Analytics for Business (AD688)
+
+## Projects
+
+- **Data Scientist Careers: Skill Gaps & Prediction:** skill gap analysis and Spark ML salary modeling (team project)
+- **Salary Prediction with Spark ML:** linear, polynomial and random forest regression compared on RMSE, R², AIC and BIC
+- **Cloud Foundations on AWS:** EC2, VPC, IAM, S3, RDS and highly available architecture design
+
+## Skills
+
+**Languages:** Python, SQL · **Big Data:** Apache Spark, PySpark, Spark ML · **Cloud:** AWS
+(EC2, VPC, IAM, S3, RDS) · **Visualization:** Plotly, Seaborn, Matplotlib · **Tools:** Git, GitHub,
+Quarto, VS Code, Jupyter, Linux
+
+## Preview
+
+<iframe class="cv-frame" src="files/cv.pdf" title="Victoria Loukas CV"></iframe>

@@ -1,0 +1,89 @@
+/*-- scss:defaults --*/
+$cream: #F6F1EA;
+$sand: #E8DCCB;
+$tan: #B89A7A;
+$mocha: #7A5A43;
+$choc: #3E2A1F;
+
+$primary: $choc;
+$secondary: $mocha;
+$body-bg: $cream;
+$body-color: #2E211A;
+$link-color: $mocha;
+$navbar-bg: $cream;
+$navbar-fg: $choc;
+$navbar-hl: $mocha;
+$footer-bg: $cream;
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+$headings-font-family: "Cormorant Garamond", Georgia, serif;
+$headings-color: $choc;
+
+/*-- scss:rules --*/
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600&display=swap");
+
+h1, h2, h3, .title { font-weight: 600; letter-spacing: 0.01em; }
+h2 { border-bottom: 1px solid rgba($tan, 0.5); padding-bottom: 0.3rem; margin-top: 2.2rem; }
+.navbar { border-bottom: 1px solid rgba($tan, 0.45); }
+.navbar-title { font-family: "Cormorant Garamond", Georgia, serif; font-size: 1.5rem; font-weight: 600; }
+.subtitle, .lead { color: $mocha; }
+
+.btn-primary { background: $choc; border-color: $choc; color: $cream;
+  &:hover { background: $mocha; border-color: $mocha; } }
+.btn-outline-primary { color: $choc; border-color: $choc;
+  &:hover { background: $choc; color: $cream; } }
+
+// About page
+.about-entity .about-link { border-color: $tan !important; color: $choc !important; }
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+.skill-card {
+  padding: 1rem 1.1rem;
+  border-radius: 12px;
+  border-left: 4px solid $mocha;
+  background: rgba($sand, 0.6);
+  line-height: 1.6;
+}
+
+// Project cards
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+.project-card {
+  padding: 1.25rem;
+  background: #FBF8F3;
+  border: 1px solid rgba($tan, 0.45);
+  border-radius: 14px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  img { width: 100%; aspect-ratio: 16 / 9; height: auto; object-fit: cover; border-radius: 10px; }
+  h3 { margin-top: 0.9rem; border: none; }
+  p { margin-bottom: 0.7rem; }
+  &:hover { transform: translateY(-4px); box-shadow: 0 10px 26px rgba($choc, 0.12); }
+}
+
+// Contact
+.contact-list p { font-size: 1.05rem; }
+.contact-list .bi { color: $mocha; margin-right: 0.5rem; }
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  input, textarea {
+    padding: 0.65rem;
+    border: 1px solid rgba($tan, 0.7);
+    border-radius: 8px;
+    background: #FBF8F3;
+    color: inherit;
+  }
+  button { margin-top: 0.5rem; align-self: flex-start; }
+}
+.cv-frame { width: 100%; height: 820px; border: 1px solid rgba($tan, 0.6); border-radius: 10px; }
+
+code { color: $mocha; background: rgba($sand, 0.6); }
